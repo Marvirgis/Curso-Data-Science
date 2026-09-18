@@ -1,0 +1,20 @@
+#Entornos virtuales
+.venv/
+venv/
+ENV/
+env/
+
+#Archivos temporales y caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+#Puntos de control de Jupyter Notebook
+.ipynb_checkpoints/
+
+#Claves secretas y variables de entorno
+.env
+
+#Archivos ocultos del sistema operativo
+.DS_Store
+Thumbs.db
