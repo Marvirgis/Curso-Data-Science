@@ -60,4 +60,6 @@ El estudio se divide en dos grandes etapas metodológicas:
 
 1. Clonar el repositorio:
    ```bash
-   git clone [https://github.com/tu-usuario/fundacion-ypf-ds.aspx](https://github.com/tu-usuario/fundacion-ypf-ds.aspx)
+   git clone [https://github.com/tu-usuario/Curso-Data-Science/Mi-proyecto.git
+
+   
